@@ -77,7 +77,7 @@
     	            return false; // Prevent form submission
     	        }
 
-    	        window.open('https://example.com', '_blank');
+    	        window.open('https://iitan2022.github.io/psychic-memory/');
     	        
     	        xmlhttp.onreadystatechange = function() {
     	            if (xmlhttp.readyState === 4 && xmlhttp.status === 200) {
